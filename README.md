@@ -66,6 +66,8 @@ The project is live and deployed on [https://bosso-expense-tracker.onrender.com/
 
 ### How to Test
 
+`npm install` to install dependencies, I'll leave the way to run the project to you, figure it out 😄.
+
 To explore the project, you can use tools like POSTMAN API to interact with the deployed API endpoints. Feel free to register, log in, and test various features provided by the Expense and Income Tracker.
 
 ### Conclusion
