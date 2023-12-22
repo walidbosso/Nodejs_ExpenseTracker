@@ -65,8 +65,9 @@ The project is live and deployed on [https://bosso-expense-tracker.onrender.com/
 5. **Mailing Integration:** The inclusion of mailing functionality enhances communication, keeping users informed about important updates and transactions.
 
 ### How to Test
+1. Fork then Clone the repository.
 
-`npm install` to install dependencies, I'll leave the way to run the project to you, figure it out 😄.
+2. `npm install` to install dependencies, I'll leave the fun and the way to run the project to you, figure it out if you don't 😄.
 
 To explore the project, you can use tools like POSTMAN API to interact with the deployed API endpoints. Feel free to register, log in, and test various features provided by the Expense and Income Tracker.
 
