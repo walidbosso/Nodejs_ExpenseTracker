@@ -46,7 +46,7 @@ Welcome to the Expense and Income Tracker Back-End project! This robust system i
 
 - **REST API:** The project follows the principles of Representational State Transfer (REST), providing a standardized and scalable architecture for building APIs.
 
-- **Mailing:** The inclusion of mailing functionality enhances communication within the system, allowing users to receive important updates and notifications.
+- **Node Mailer:** The inclusion of mailing functionality enhances communication within the system, allowing users to receive important updates and notifications.
 
 ### Deployment
 
