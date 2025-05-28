@@ -87,7 +87,7 @@ Explore the live deployment at [https://bosso-expense-tracker.onrender.com/](htt
 > >  <br/> &copy; *by Walid BOUSSOU*   🇲🇦 😄 <br/>  
 ----------------------
 
-<details>
+<details open disabled>
 
 <summary>👏 Thanks for the support </summary>
 
